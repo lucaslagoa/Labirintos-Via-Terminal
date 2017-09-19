@@ -1,0 +1,6 @@
+/----------INSTALAÇÃO JSON------------\
+
+Para instalar o JSON basta clicar com o botão direito na pasta JRE System Library, depois ir em Build Path -> Configure Build Path.
+Após isso basta addcionar um "Add External JARS.." e escolher o arquivo json-simple.jar
+
+Dessa forma o código entrará em execução e você poderá jogar o jogo normalmente.

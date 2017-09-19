@@ -1,0 +1,1 @@
+Para testar as versões, colar as entradas no ambiente.json
